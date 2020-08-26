@@ -1,6 +1,6 @@
 # Dictionary
 
-- uses Owlbot API
+- uses Owlbot Dictionary API
 - written as single php src file
 - token to be stored in auth.txt
 
